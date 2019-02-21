@@ -2,6 +2,7 @@ Some vulnerable contracts that were found during auditing the result from DC-Hun
 ------
 
 | |Address|Name|Vulnerability Type|Note|
+|--|--|--|--|--|
 |1|0x4daa9dc438a77bd59e8a43c6d46cbfe84cd04255|BattleToken|Integer overflow|CVE-2018-17882
 |2|0x7367a68039d4704f30bfbf6d948020c3b07dfc59|Beercoin|Integer overflow|CVE-2018-19460
 |3|0xa65d59708838581520511d98fb8b5d1f76a96cad|BlackJack|Bad randomness
