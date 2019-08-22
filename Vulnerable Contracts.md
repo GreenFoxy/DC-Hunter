@@ -132,6 +132,7 @@ Some vulnerable contracts that were found during auditing the result from DC-Hun
 |126|0x85179AC15AA94E3ca32dd1cc04664E9bB0062115|COIN_BOX|Reentrancy
 |127|0x96EDBe868531BD23a6C05e9d0C424ea64fb1B78B|PENNY_BY_PENNY|Reentrancy
 |||
+|128|0x9A3dA065e1100a5613dc15b594f0F6193B419E96|Ethraffle|Bad Randomness
 |129|0x3238db085a2853442e3d74ad47e73ef63bfbc507|GameOne|Bad Randomness
 |130|0x918becb3a725caaa5f8e277bb0b914d271331e99|GameOne|Bad Randomness
 |131|0xea18c6ccb4219a3ef0ab283ee53c223d9c264834|LuckyNumber|Bad Randomness
@@ -141,7 +142,6 @@ Some vulnerable contracts that were found during auditing the result from DC-Hun
 |135|0xB7177696646A98A70520c37740d4a7659362f5b3|Ethraffle|Bad Randomness
 |136|0xcC88937F325d1C6B97da0AFDbb4cA542EFA70870|Ethraffle_v4b|Bad Randomness
 |137|0x0248f089a622b74cebaa62573605af9a44966bf1|Ethraffle|Bad Randomness
-|138|0x9A3dA065e1100a5613dc15b594f0F6193B419E96|Ethraffle|Bad Randomness
 |||
 ||0xddc36be766d4328dbf898cfd9826478659dba5c3|#|Integer Overflow|close-source, CVE-2018-19852
 ||0x799dd1dbb628fd0b5a0718e693b0f389c595dcd9|#|Integer Overflow|close-source
