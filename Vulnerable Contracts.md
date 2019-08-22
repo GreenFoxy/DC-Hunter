@@ -149,3 +149,5 @@ Some vulnerable contracts that were found during auditing the result from DC-Hun
 ||0xea685ab6dfdfd87b48e7134d15d0799ed034c3b4|#|Integer Overflow|close-source
 ||0xf73dbb0554a0339fd0d24ba3fe9e25a5264cc2ac|#|Integer Overflow|close-source
 ||0x93ea3485dee090edde14dad06820530f1351fa95|#|Integer Overflow|close-source
+||0xd5bb8ed817724ccd8c448c1e7d83bf1482daf7b3|#|Integer Overflow|close-source
+||0x1ae22cfac9e54d31deab0079b064c0a650a9db2a|#|Integer Overflow|close-source
