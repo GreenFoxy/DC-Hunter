@@ -143,6 +143,23 @@ Some vulnerable contracts that were found during auditing the result from DC-Hun
 |136|0xcC88937F325d1C6B97da0AFDbb4cA542EFA70870|Bad Randomness
 |137|0x0248f089a622b74cebaa62573605af9a44966bf1|Bad Randomness
 |||
+|138|0x2ef27bf41236bd859a95209e17a43fbd26851f92|Unprotected ownership
+|139|0x8170fdafa281530ab8353de4d29a3f45949ee50c|Unprotected ownership
+|140|0xbb7caa985234debe433f107d300c370186d42684|Unprotected ownership
+|141|0x9402cedd72e6e586e092caa2760887e24a8a3b5b|Unprotected ownership
+|142|0x6e58b4c41cab75dc0239938bf5455ab8823ee4de|Unprotected ownership
+|143|0xa01a4dea8a096aa8cd8f9853495c09ed737315b2|Unprotected ownership
+|144|0xc55e5e72911fab07ef912c58e6dc168d73348820|Unprotected ownership
+|145|0x1d80f890f497b1672f9487862978032666179338|Unprotected ownership
+|146|0x66d58f0a2a44742688843ceb8c0fa8d8567e3c54|Unprotected ownership
+|147|0x6527d0fd6df77ed928db32b761b32e9b6e332961|Unprotected ownership
+|148|0x3f60a98202cf7ac8be9afc077e6c28f2638009f4|Unprotected ownership
+|||
+|149|0x3ac26f27595effeb5e426bd093081ec30ebdd545|Mishandled exceptions
+|150|0xa64b0456ee7956cbc72ce31d61f43220a398a4f1|Mishandled exceptions
+|151|0x8e5a41d13c04028add9ccacd0a56af2df778543b|Mishandled exceptions
+|152|0x834603b8f2e1fd09840a3d44af1fa63a52ca6c28|Mishandled exceptions
+|||
 ||0xddc36be766d4328dbf898cfd9826478659dba5c3|Integer Overflow|close-source, CVE-2018-19852
 ||0x799dd1dbb628fd0b5a0718e693b0f389c595dcd9|Integer Overflow|close-source
 ||0x149fc0BB6b2D745c76Df1431721eB2121F5a013d|Reentrancy|close-source
